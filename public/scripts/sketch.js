@@ -17,6 +17,8 @@ function draw() {
   //   fill(random(255));
   //   ellipse(mouseX, mouseY, random(80), random(80));
   // }
+
+  // background(51);
   walker.update();
   walker.display();
 }
